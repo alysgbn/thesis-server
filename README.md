@@ -30,7 +30,7 @@ Train the model:
 	
 	Fine-tune by freezing initial layers to prevent overfitting
 	
-	Evaluate performance:
+Evaluate performance:
 	
 	Calculate training/testing accuracy
 	
